@@ -1,4 +1,8 @@
-# Astro Starter Kit: Basics
+# Astro + TypeScript
+
+### Simple blog built with astro based on a tutorial by Brad Traversy
+
+![hero section homepage](./astro-homepage.png)
 
 ```sh
 npm create astro@latest -- --template basics
